@@ -5,6 +5,9 @@
 # modificado por svwy2024 (21/05/24)
 
 
+# Ok, Sarah - Prof. Parisotto
+
+
 casas = []
 i = 1
 while i <= 9:
